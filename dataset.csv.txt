@@ -1,0 +1,9 @@
+﻿headline,label
+Stocks surge as investors cheer inflation data,Bullish
+Markets tumble amid interest rate fears,Bearish
+Mixed trading session as investors await earnings,Neutral
+Sensex jumps 300 points on strong GDP report,Bullish
+Global markets slide after oil prices spike,Bearish
+Investors optimistic after central bank announcement,Bullish
+Stock markets fall on weak corporate results,Bearish
+Indices remain flat amid low trading volume,Neutral
